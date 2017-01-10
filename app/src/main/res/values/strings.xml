@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andoraa</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+    </string-array>
+    <string name="title">Select</string>
+    <string name="apple">Apple</string>
+    <string name="grape">Grapes</string>
+    <string name="orange">Orange</string>
+    <string name="done">Done</string>
+    <string name="newIntent">New Intent</string>
+</resources>
